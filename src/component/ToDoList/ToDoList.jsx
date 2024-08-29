@@ -99,7 +99,7 @@ function ToDoList() {
   };
   return (
     <>
-      <Row className="justify-content-center">
+      <Row className="justify-content-center m-0">
         <Row className="justify-content-center align-items-center mt-5 col-lg-6">
           <div id="todo-input-container">
             <h3 id="todo-title">
